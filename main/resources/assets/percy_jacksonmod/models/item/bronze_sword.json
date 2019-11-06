@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "percy_jacksonmod:items/bronze_sword"
+        }
+}
